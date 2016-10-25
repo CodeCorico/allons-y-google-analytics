@@ -1,0 +1,8 @@
+{
+  "waitTasks": [
+    "google-analytics"
+  ],
+  "files": [
+    "./public/google-analytics/analytics-index.js"
+  ]
+}

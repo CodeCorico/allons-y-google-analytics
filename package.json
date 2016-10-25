@@ -1,0 +1,21 @@
+{
+  "name": "allons-y-google-analytics",
+  "version": "0.0.1",
+  "description": "Add Google Analytics code to Allons-y-web pages.",
+  "license": "MIT",
+  "homepage": "https://allons-y.io",
+  "author": "CodeCorico <hello@codecorico.com>",
+  "bugs": "https://github.com/CodeCorico/allons-y-google-analytics/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeCorico/allons-y-google-analytics.git"
+  },
+  "engines": {
+    "node": ">=4.1",
+    "npm": ">=3.2"
+  },
+  "dependencies": {
+    "allons-y-web": "^1.0.2",
+    "through2": "^2.0.1"
+  }
+}

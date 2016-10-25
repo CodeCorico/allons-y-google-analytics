@@ -1,0 +1,7 @@
+{
+  "env": [{
+    "type": "input",
+    "name": "GOOGLE_ANALYTICS_ID",
+    "message": "Tracking ID of your Google Analytics property:"
+  }]
+}
